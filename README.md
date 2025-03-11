@@ -7,7 +7,7 @@ This document is an online companion to the AWS Cloud Cards deck for Amazon Inte
 
 * [👋 Welcome To Cloud Cards!](#-welcome-to-cloud-cards)
 * [🤘 IVS Rocks!](#-ivs-rocks)
-* [⭐️ We'll Do It Live](#-we-ll-do-it-live)
+* [⭐️ Live Streaming Made Easy](#-live-streaming-made-easy)
 * [💪 Save It For Later (Low-Latency)](#-save-it-for-later--low-latency)
   + [Code](#code)
 * [💪 Change The Channel](#-change-the-channel)
@@ -65,7 +65,7 @@ This document is an online companion to the AWS Cloud Cards deck for Amazon Inte
 
 ## 👋 Welcome To Cloud Cards!
 
-<img src="output/card-images/0F-Welcome.png" style="width: 350px;" />
+<img src="output/card-images/0A-Welcome.png" style="width: 350px;" />
 <img src="output/card-images/0B-Welcome.png" style="width: 350px;" />
 
 ## 🤘 IVS Rocks!
@@ -73,10 +73,10 @@ This document is an online companion to the AWS Cloud Cards deck for Amazon Inte
 <img src="output/card-images/1A-IVS-Rocks.png" style="width: 350px;" />
 <img src="output/card-images/1B-IVS-Rocks.png" style="width: 350px;" />
 
-## ⭐️ We'll Do It Live
+## ⭐️ Live Streaming Made Easy
 
-<img src="output/card-images/2A-We'll-Do-It-Live.png" style="width: 350px;" />
-<img src="output/card-images/2B-We'll-Do-It-Live.png" style="width: 350px;" />
+<img src="output/card-images/2A-Live-Streaming-Made-Easy.png" style="width: 350px;" />
+<img src="output/card-images/2B-Live-Streaming-Made-Easy.png" style="width: 350px;" />
 
 Code Samples
 
