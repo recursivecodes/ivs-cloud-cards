@@ -7,8 +7,8 @@ This document is an online companion to the AWS Cloud Cards deck for Amazon Inte
 
 * [👋 Welcome To Cloud Cards!](#-welcome-to-cloud-cards)
 * [🤘 IVS Rocks!](#-ivs-rocks)
-* [⭐️ Live Streaming Made Easy](#-live-streaming-made-easy)
-* [💪 Save It For Later (Low-Latency)](#-save-it-for-later--low-latency)
+* [⭐️ Live Streaming Made Easy](#%EF%B8%8F-live-streaming-made-easy)
+* [💪 Save It For Later (Low-Latency)](#-save-it-for-later-low-latency)
   + [Code](#code)
 * [💪 Change The Channel](#-change-the-channel)
   + [Code](#code-1)
