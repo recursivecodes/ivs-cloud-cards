@@ -713,8 +713,8 @@ ivsPlayer.play();
 
 ## 💡 ゲームオン！
 
-<img src="output/card-images/ja-jp/30A-Game-on-ja-jp.png" style="width: 350px;" />
-<img src="output/card-images/ja-jp/30B-Game-on-ja-jp.png" style="width: 350px;" />
+<img src="output/card-images/ja-jp/30A-Game-On-ja-jp.png" style="width: 350px;" />
+<img src="output/card-images/ja-jp/30B-Game-On-ja-jp.png" style="width: 350px;" />
 
 ## 💡 授業時間です！
 
