@@ -257,7 +257,7 @@ $ aws ivs update-channel \
 
 ## 💪 途切れない配信！
 
-<img src="output/card-images/ja-jp/10F-No-Interruptions-ja-jp.png" style="width: 350px;" />
+<img src="output/card-images/ja-jp/10A-No-Interruptions-ja-jp.png" style="width: 350px;" />
 <img src="output/card-images/ja-jp/10B-No-Interruptions-ja-jp.png" style="width: 350px;" />
 
 ## ⭐️ ステージへようこそ！
@@ -486,7 +486,7 @@ connection.onmessage = (event) => {
 
 ## 💪 発言に注意しましょう
 
-<img src="output/card-images/ja-jp/20F-Watch-What-You-Say-ja-jp.png" style="width: 350px;" />
+<img src="output/card-images/ja-jp/20A-Watch-What-You-Say-ja-jp.png" style="width: 350px;" />
 <img src="output/card-images/ja-jp/20B-Watch-What-You-Say-ja-jp.png" style="width: 350px;" />
 
 ### Code
